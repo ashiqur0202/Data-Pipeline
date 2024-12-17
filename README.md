@@ -120,10 +120,7 @@ Welcome to the **Data Pipeline** repository! This repository is a comprehensive 
 - Online Courses:
   - Udemy, Coursera, DataCamp
 
-## 10. Contributions
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) for submitting changes, fixes, or tutorials.
-
 ---
 
 ## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License.
