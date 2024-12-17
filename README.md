@@ -12,7 +12,6 @@ Welcome to the **Data Pipeline** repository! This repository is a comprehensive 
 7. [Project Examples](#project-examples)
 8. [Best Practices](#best-practices)
 9. [Resources](#resources)
-10. [Contributions](#contributions)
 
 ---
 
